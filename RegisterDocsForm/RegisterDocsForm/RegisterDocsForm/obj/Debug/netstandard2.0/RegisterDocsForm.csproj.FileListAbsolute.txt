@@ -1,0 +1,12 @@
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\bin\Debug\netstandard2.0\RegisterDocsForm.deps.json
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\bin\Debug\netstandard2.0\RegisterDocsForm.dll
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\bin\Debug\netstandard2.0\RegisterDocsForm.pdb
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\obj\Debug\netstandard2.0\RegisterDocsForm.csproj.CoreCompileInputs.cache
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\obj\Debug\netstandard2.0\RegisterDocsForm.App.xaml.g.cs
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\obj\Debug\netstandard2.0\RegisterDocsForm.DriverLicenseDoc.xaml.g.cs
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\obj\Debug\netstandard2.0\RegisterDocsForm.RegisterDocuments.xaml.g.cs
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\obj\Debug\netstandard2.0\RegisterDocsForm.SoatDoc.xaml.g.cs
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\obj\Debug\netstandard2.0\RegisterDocsForm.AssemblyInfoInputs.cache
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\obj\Debug\netstandard2.0\RegisterDocsForm.AssemblyInfo.cs
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\obj\Debug\netstandard2.0\RegisterDocsForm.dll
+C:\Users\FREDDY\source\repos\RegisterDocsForm\RegisterDocsForm\RegisterDocsForm\obj\Debug\netstandard2.0\RegisterDocsForm.pdb

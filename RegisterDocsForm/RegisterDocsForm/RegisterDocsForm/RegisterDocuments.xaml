@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:RegisterDocsForm"
+             x:Class="RegisterDocsForm.RegisterDocuments"
+             >
+
+    <StackLayout Padding="20">
+        <!-- Place new controls here -->
+        <Label
+               Text="Sube tus documentos"
+               FontSize="25"
+               TextColor="Black"
+               VerticalTextAlignment="Center" />
+        <Label
+               Text="En esta sección podras subir los documentos necesarios para el registro como conductor. Tu vehiculo puede tener hasta 10 años de antiguedad."
+               FontSize="14"
+               TextColor="Black"
+                />
+      
+        
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Button Text="Licencia de conducir" x:Name="btnDriverLicense" Clicked="btnDriverLicense_Clicked"></Button>
+            <Button Text="SOAT"  x:Name="btnSoat" Clicked="btnSoat_Clicked"></Button>
+        </StackLayout>
+
+
+        <StackLayout VerticalOptions="EndAndExpand">
+            <Button  Text="Continuar" ></Button>
+        </StackLayout>
+
+        
+    </StackLayout>
+
+</ContentPage>
